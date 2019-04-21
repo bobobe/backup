@@ -1,0 +1,12 @@
+all+0.01mmd+0.7drop:0.63128
+all+0.05mmd+0.7drop:0.62941
+all+0.6drop:0.616
+all+0.7drop:0.653
+all+0.25mmd+0.7drop:0.65237
+all+0.45mmd+0.7drop:0.67066
+all+0.45mmd+0.7drop+add:0.68656
+all+0.65mmd+0.7drop:0.63675
+new_pool+tanh:0.67725
+new_pool+relu:0.63071
+rel:0.72126
+rel+adv:0.64292
